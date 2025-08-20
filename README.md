@@ -1,6 +1,6 @@
 <!-- Animated Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=007ACC&width=500&lines=Hi+there,+I'm+Aquinatta+Alumasa!;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=007ACC&width=500&lines=Hi+there,+I'm+Aquinatta!;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
 </p>
 
 <!-- Coding GIF -->

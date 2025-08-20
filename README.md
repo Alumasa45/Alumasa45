@@ -1,11 +1,11 @@
 <!-- Animated Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=FF69B4&width=500&lines=Hola!,+I'm+Aquinatta+Alumasa!;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=FF69B4&width=500&lines=Hi+there,+I'm+Aquinatta+Alumasa!;Welcome+to+my+GitHub+profile." alt="Typing SVG" />
 </p>
 
-<!-- Bongocat Typing GIF (Giphy, should display reliably) -->
+<!-- Feminine Coding Girl GIF (Headphones, Coffee, Coding Setup) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="320" alt="Bongocat Typing"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g5Z3Q1cXJqcGJqNnQwNmh5ZzA0ZWV5YWllMDF4Z2R2bHdpd3E2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="320" alt="Girl Coding with Headphones and Coffee"/>
 </p>
 
 <!-- Working SVG Wave (Pink Aesthetic) -->

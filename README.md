@@ -58,4 +58,4 @@
 
 ---
 
-> “Code is the closest thing to superpowers.”
+> “Code is the closest thing we have to superpowers.”

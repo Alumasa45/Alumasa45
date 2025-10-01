@@ -15,8 +15,8 @@
 
 # 👨‍💻 About Me
 
-- 🌱 I’m currently learning: Typescript, C#
-- 👯 I’m looking to collaborate on: Typescript projects.
+- 🌱 I’m currently learning: Typescript, C#, GoLang
+- 👯 I’m looking to collaborate on: Typescript projects, GoLang Projects.
 - 💬 Ask me about: Backend; As much as I am a fullstack developer, My strong suit is the backend. Ask me anything about typescript backend, I got you covered!
 - 📫 How to reach me: aquinattaalumasa@gmail.com
 - ⚡ Fun fact: I’m a full-stack developer who enjoys exploring connections between technology, business, and science. My projects reflect a mix of problem-solving, curiosity, and adaptability.
